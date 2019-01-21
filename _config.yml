@@ -10,8 +10,6 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/yegor-kozhernovich/
-  - title: facebook
-    url: https://www.facebook.com/ricardo.piccolo.39
     
 # Google webmaster tools
 google_verify:
