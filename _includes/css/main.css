@@ -111,7 +111,7 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
     header .container {
         padding-top: 150px;
         padding-bottom: 40px;
@@ -126,7 +126,7 @@ header .intro-text .skills {
     }
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
     .navbar-fixed-top {
         padding: 25px 0;
         -webkit-transition: padding .3s;
@@ -135,7 +135,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2rem;
+        font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -251,7 +251,7 @@ section.tout {
     z-index: 2;
 }
 
-@media(min-width:767px) {
+@media(min-width:769px) {
     #startups .portfolio-item {
         margin: 0 0 30px;
     }
