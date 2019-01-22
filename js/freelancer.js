@@ -8,8 +8,8 @@
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
+        var customOffset = $('.navbar-fixed-top').outerHeight()
         $('html, body').stop().animate({
-            var customOffset = $('.navbar-fixed-top').outerHeight()
             scrollTop: $($anchor.attr('href')).offset().top + customOffset
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
