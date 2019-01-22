@@ -12,14 +12,10 @@ View an example one-pager [here](http://chuckgroom.com/onepage-bio/)
 
 ## How to use
 
- - Place your photo in `/img/profile.png`
+ - Place your photo in `/img/profile.png` (Will be better to use <500 kb)
  - (Optional) Update the favicon `/img/icon.png`
  - Edit `_config.yml` to give your name, email address, social media contacts, etc. You can also update the color scheme.
  - Edit content in `/_includes/about_me.html` and `/_includes/interests.html`
-
-## Screenshot
-
-![screenshot](https://raw.githubusercontent.com/chuckgroom/onepage-bio/master/screenshot.png)
 
 ## Jekyll
 
