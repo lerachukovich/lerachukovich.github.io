@@ -10,7 +10,7 @@ $(function() {
         var $anchor = $(this);
         var customOffset = $('.navbar-fixed-top').outerHeight()
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top + customOffset
+            scrollTop: $($anchor.attr('href')).offset().top - customOffset
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
