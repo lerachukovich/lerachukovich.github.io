@@ -22,7 +22,8 @@ color:
   #under portfolio photo
   primary: b4bcc2
   #buttons
-  primary-rgb: "18, 143, 118"
+#  primary-rgb: "18, 143, 118"
+  primary-hex: 4588b5e0
   #header
   secondary: 2a3135
   #header links color
