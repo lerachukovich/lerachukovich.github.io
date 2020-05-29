@@ -27,11 +27,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary-hex }};
-}
-
-a:first-child {
-    color: #4588b5e0;
+    color: #{{ site.color.primary }};
 }
 
 h1,
