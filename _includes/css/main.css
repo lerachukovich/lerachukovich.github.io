@@ -12,6 +12,11 @@ ul, p {
     font-size: 20px;
 }
 
+ul li {
+    margin-bottom: 20px;
+    line-height: 28px;
+}
+
 p.small {
     font-size: 16px;
 }
