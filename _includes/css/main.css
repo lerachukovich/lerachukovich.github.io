@@ -13,7 +13,7 @@ ul, p {
 }
 
 ul li {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     line-height: 28px;
 }
 
@@ -27,7 +27,12 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    /*color: #{{ site.color.primary }};*/
+    color: #ffffff;
+}
+
+a:first-child {
+    color: #4588b5e0;
 }
 
 h1,
